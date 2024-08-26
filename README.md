@@ -11,7 +11,7 @@
 </p>
 <br>
 
-## Project ##4: Discord Clone
+## 	:bricks: Project ###\4: Discord Clone
 
 ### :wink: Project
 
